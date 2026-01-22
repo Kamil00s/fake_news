@@ -37,7 +37,8 @@ Accuracy: ~96%
 - scikit-learn
 
 ## ▶️ How to Run
-```bash
-pip install -r requirements.txt
-python src/predict.py
-
+1. clone the repo: git clone
+2. Download the dataset(from the link above) and extract it in the respository folder
+3. Download dependencies : pip install -r requirements.txt
+4. Run preprocessing : python preprocessing.py
+5. Run the Prediction: python predict_test.py
