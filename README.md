@@ -35,7 +35,6 @@ Accuracy: ~96%
 - Python
 - pandas
 - scikit-learn
-- matplotlib / seaborn
 
 ## ▶️ How to Run
 ```bash
