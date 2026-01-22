@@ -11,6 +11,7 @@ how traditional machine learning methods perform on this task.
 
 ## 📂 Dataset
 Source: Kaggle – Fake News Detection by Bhavik Jikadara
+
 link: https://www.kaggle.com/datasets/bhavikjikadara/fake-news-detection?select=true.csv
 
 Features used:
