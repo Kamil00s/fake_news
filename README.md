@@ -28,7 +28,7 @@ Labels:
 5. Evaluation on validation set
 
 ## 📊 Results
-Accuracy: ~94% (base model)
+Accuracy: ~96% 
 
 
 ## 🛠️ Tech Stack
