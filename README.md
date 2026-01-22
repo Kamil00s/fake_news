@@ -37,7 +37,7 @@ Accuracy: ~96%
 - scikit-learn
 
 ## ▶️ How to Run
-1. clone the repo: git clone git@github.com:Kamil00s/fake_news.git
+1. Clone the repo: git clone git@github.com:Kamil00s/fake_news.git
 2. Download the dataset(from the link above) and extract it in the respository folder
 3. Download dependencies : pip install -r requirements.txt
 4. Run preprocessing : python preprocessing.py
