@@ -14,7 +14,7 @@ Source: Kaggle – Fake News Detection by Bhavik Jikadara
 
 link: https://www.kaggle.com/datasets/bhavikjikadara/fake-news-detection?select=true.csv
 
-license: https://www.kaggle.com/datasets/bhavikjikadara/fake-news-detection?select=true.csv
+license: https://creativecommons.org/licenses/by/4.0/
 
 Features used:
 - title
